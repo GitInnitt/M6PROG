@@ -1,1 +1,1 @@
-# M6PROG
+Opdrachten voor mijn favo prog opdrachten
