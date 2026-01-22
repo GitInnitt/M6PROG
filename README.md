@@ -36,3 +36,12 @@ Les 6
 
 Scripts:
 https://github.com/GitInnitt/M6PROG/tree/main/Assets/Scripts/Lessen/M6L6
+
+
+Les 7
+
+![Les7](https://github.com/GitInnitt/M6PROG/blob/main/Schermafbeelding%202026-01-22%20133231.png)
+
+Scripts:
+https://github.com/GitInnitt/M6PROG/tree/main/Assets/Scripts/Lessen/M6L7
+
